@@ -1,8 +1,8 @@
 
 ## Hey, I'm Henrique de Almeida! 👋
-🚀 BackEnd Dev.
-🎓 Studying Bachelor's Degree in Information Systems
-🇧🇷 São Paulo, Brazil 
+🚀 BackEnd Dev.  <p/>
+🎓 Studying Bachelor's Degree in Information Systems  <p/>
+🇧🇷 São Paulo, Brazil  <p/>
 ### Find me elsewhere  🌎
  💼 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquealcarvalho/)](https://www.linkedin.com/in/henriquealcarvalho/)
  📸 [![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/henrymiyaa/)](https://www.instagram.com/henrymiyaa/)
